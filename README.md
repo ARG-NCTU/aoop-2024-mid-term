@@ -22,3 +22,8 @@ More terminal:
 ```
 source docker_join.sh
 ```
+
+Run Jupyter Notebook:
+```
+source jupyter_notebook.sh
+```
